@@ -4,6 +4,16 @@ image:https://img.shields.io/badge/vert.x-4.5.8-purple.svg[link="https://vertx.i
 
 This application was generated using http://start.vertx.io
 
+To run the code, open a ter­mi­nal and nav­i­gate to your project folder. Build the ap­pli­ca­tion as fol­lows:
+```
+mvn package
+```
+
+Then, run the ap­pli­ca­tion:
+```
+mvn exec:java
+```
+
 == Building
 
 To launch your tests:
