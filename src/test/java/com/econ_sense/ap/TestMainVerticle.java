@@ -1,4 +1,4 @@
-package com.example.econ_sense_ap_vertx;
+package com.econ_sense.ap;
 
 import io.vertx.core.Vertx;
 import io.vertx.junit5.VertxExtension;

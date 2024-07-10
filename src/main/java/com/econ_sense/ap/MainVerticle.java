@@ -1,4 +1,4 @@
-package com.example.econ_sense_ap_vertx;
+package com.econ_sense.ap;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
